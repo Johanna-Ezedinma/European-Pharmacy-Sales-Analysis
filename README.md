@@ -2,7 +2,8 @@
 
 **Description:** 
 ```
-Power BI dashboard analyzing 120 European pharmacies to identify performance drivers and growth opportunities. €975K revenue opportunity identified through strategic execution improvements.
+Power BI dashboard analyzing 120 European pharmacies to identify performance drivers and growth opportunities.
+€975K revenue opportunity identified through strategic execution improvements.
 ```
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
@@ -54,7 +55,7 @@ Interactive Power BI dashboard analyzing **120 European pharmacies** across **8 
 ## 📸 Dashboard Preview
 
 ### Page 1: Sales & Profitability Overview
-![Overview Dashboard](images/page1_overview.png)
+![Overview Dashboard](https://github.com/Johanna-Ezedinma/European-Pharmacy-Sales-Analysis/blob/main/Pharmacy%20Sales%20Overview%20Page.jpg?raw=true)
 
 **Key Insights:**
 - Revenue grew 4.4% YOY while profit grew 4.9%
@@ -65,7 +66,7 @@ Interactive Power BI dashboard analyzing **120 European pharmacies** across **8 
 ---
 
 ### Page 2: Pharmacy Performance & Growth Opportunities
-![Pharmacy Performance](images/page2_pharmacy_performance.png)
+![Pharmacy Performance](https://github.com/Johanna-Ezedinma/European-Pharmacy-Sales-Analysis/blob/main/Pharmacy%20performance%20and%20growth%20opportunities.jpg?raw=true)
 
 **Key Insights:**
 - Urban pharmacies: €21.2K avg profit vs €4.7K rural
@@ -76,7 +77,7 @@ Interactive Power BI dashboard analyzing **120 European pharmacies** across **8 
 ---
 
 ### Page 3: Product Performance Analysis
-![Product Performance](images/page3_product_performance.png)
+![Product Performance](https://github.com/Johanna-Ezedinma/European-Pharmacy-Sales-Analysis/blob/main/Product%20Performance%20and%20growth%20opportunities.jpg?raw=true)
 
 **Key Insights:**
 - FreshLine leads profitability: 36% margin
@@ -203,13 +204,12 @@ Revenue Gap per Pharmacy =
 ## 📂 Repository Structure
 ```
 European-Pharmacy-Analytics/
-├── EuropeanPharmacy_Analysis.pbix     # Main Power BI file
 ├── README.md                           # This file
 ├── images/                             # Dashboard screenshots
 │   ├── page1_overview.png
 │   ├── page2_pharmacy_performance.png
 │   └── page3_product_performance.png
-└── data/                               # Sample data (optional)
+└── data/                               # Sample data
     └── data_dictionary.md
 ```
 
